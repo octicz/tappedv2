@@ -1,5 +1,4 @@
-getgenv().Tapped = {
-       
+getgenv().Tapped = {   
     },
     ['Configuration'] = {
         ['Checks'] = {
