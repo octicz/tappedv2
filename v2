@@ -1,7 +1,6 @@
-getgenv().Tapped = { 
-	
- {
-    
+getgenv().Tapped = {
+    ['Whitelist'] = {
+        ['LuaKey'] = "Place ur luarmor key here",
     },
     ['Configuration'] = {
         ['Checks'] = {
@@ -183,6 +182,8 @@ getgenv().Tapped = {
     }
 }
 
+
+script_key = getgenv().Tapped.Whitelist.LuaKey
 
 
 local Players = game:GetService("Players")
