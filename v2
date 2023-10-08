@@ -1,6 +1,5 @@
 getgenv().Tapped = {
-    ['Whitelist'] = {
-        ['LuaKey'] = "Place ur luarmor key here",
+       
     },
     ['Configuration'] = {
         ['Checks'] = {
